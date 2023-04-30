@@ -1,5 +1,24 @@
 # dart-cheat-sheet
 
+### Table of Contents
+
+- [Main Function](#main-function)
+- [Variables](#variables)
+- [Operators](#operators)
+- [Comments](#comments)
+- [Metadata](#metadata)
+- [Libraries & Imports](#libraries--imports)
+- [Types](#types)
+- [Control Flow](#control-flow)
+- [Classes & Objects](#classes--objects)
+- [Extension](#extension)
+- [Enum](#enum)
+- [Mixin](#mixin)
+- [Callable Classes](#callable-classes)
+- [Null Safety](#null-safety)
+- [Asynchronous Programming](#asynchronous-programming)
+
+
 ### **MAIN FUNCTION**
 
 ```dart
